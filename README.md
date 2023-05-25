@@ -1,7 +1,7 @@
 # permission_apps
 
-A new Flutter project.
-
+This the project using flutter for Android for testing permission apps Camera, Storage and Url 
+> SDK 21 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
