@@ -1,7 +1,8 @@
 # permission_apps
 
-This the project using flutter for Android for testing permission apps Camera, Storage and Url 
-> SDK 21 
+
+> SDK 21 and max SDK is 33
+> for testing camera and storage permission 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
